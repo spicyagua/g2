@@ -5,7 +5,7 @@ This is something after the initial title
 
 This is a change
 
-This should be second YYYYY
+This should be second Fixed Merge Conflict
 ---------------------------
 
 This is a second change to the file
